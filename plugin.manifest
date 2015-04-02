@@ -1,0 +1,4 @@
+pluginname=FeedbackAggregator
+pluginclassname=FeedbackAggregator
+origin=studip
+version=1.0
